@@ -4,6 +4,14 @@
 - Linear algebra
 - Python
 
+## Preparation
+
+- Install `qiskit` following the steps in (https://docs.quantum.ibm.com/start/install)
+- Install Jupyter notebook:
+  ```python
+  pip install notebook
+  ```
+
 
 
 ## Outline
