@@ -7,6 +7,7 @@
 ## Preparation
 
 - Install `qiskit` following the steps in (https://docs.quantum.ibm.com/start/install)
+- Install `qiskit-aer`: `pip install qiskit-aer`
 - Install Jupyter notebook:
   ```python
   pip install notebook
