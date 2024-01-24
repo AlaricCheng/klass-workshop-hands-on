@@ -12,7 +12,7 @@
   ```python
   pip install notebook
   ```
-
+- basics.ipynb Colab [link](https://colab.research.google.com/drive/1eyrndDbtiAg3-ycgWnJ0mDxcG8URDRDa?usp=sharing) (need Google account).
 
 
 ## Outline
