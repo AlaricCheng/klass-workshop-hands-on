@@ -12,7 +12,15 @@
   ```python
   pip install notebook
   ```
-- basics.ipynb Colab [link](https://colab.research.google.com/drive/1eyrndDbtiAg3-ycgWnJ0mDxcG8URDRDa?usp=sharing) (need Google account).
+
+
+## Notebooks
+
+You would need a Google account to access the following notebooks.
+
+- [basics](https://colab.research.google.com/drive/1eyrndDbtiAg3-ycgWnJ0mDxcG8URDRDa?usp=sharing) 
+- [grover]()
+- [qaoa](https://colab.research.google.com/drive/1QKjQ3JTbbZ7CqUv69dxElLMH0hAYv_aF)
 
 
 ## Outline
